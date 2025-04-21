@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "esModuleInterop": true,
+    "target": "ES6",
+    "module": "CommonJS",
+                                   /* Skip type checking all .d.ts files. */
+  }
+}
